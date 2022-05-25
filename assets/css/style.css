@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&display=swap');
+
+body{
+    background: rgb(203, 175, 248);
+}
+h1{
+    border-bottom: 5px solid black;
+    text-align: center;
+    color: rgb(243, 180, 180);
+    text-shadow: 3px 3px 3px rgb(65, 12, 12);
+    padding-bottom: 10px; 
+       
+}
+.para-1{
+    color: rgb(100, 113, 114);
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 100px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-transform: lowercase;
+    font-family: 'Anton', sans-serif;
+}
+.para-2{
+    font-size: 22px;
+    font-family: 'Dancing Script', cursive;
+}
